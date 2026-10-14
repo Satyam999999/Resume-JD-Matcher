@@ -1,0 +1,35 @@
+Keanu Makoa
+keanu.makoa@proton.me | +1 (808) 993-1220 | linkedin.com/in/keanumakoa | github.com/keanumakoa
+Honolulu, HI (Open to remote)
+
+SUMMARY
+Applied Data Scientist and ML Engineer hybrid with 3 years of experience across NLP, computer vision, and product analytics. Recently focused on LLM applications and semantic search. Fast learner, strong communicator, and passionate about shipping ML products users actually love.
+
+EXPERIENCE
+
+Data Scientist / ML Engineer | Aloha AI (YC W22 startup) | Remote | Jan 2023 – Present
+- Built and deployed a conversational AI assistant powered by GPT-4 and LangChain for a healthcare CRM; reduced customer support ticket volume by 35%.
+- Implemented RAG pipelines using LlamaIndex and Chroma for domain-specific Q&A.
+- Performed A/B testing on prompt engineering strategies; improved user satisfaction score by 22%.
+- Built text classification models using HuggingFace fine-tuned BERT; achieved 0.89 F1 on clinical notes.
+- Wrote data pipelines using Python, pandas, and SQL (PostgreSQL) to support model training and evaluation.
+- Used MLflow for experiment tracking; packaged models as Docker containers and deployed to AWS ECS.
+
+Data Analyst (transitioning to DS) | Pacific Commerce Group | Honolulu, HI | Jun 2021 – Dec 2022
+- Performed exploratory data analysis using Python (pandas, matplotlib, seaborn) and SQL.
+- Built regression models in scikit-learn to forecast inventory demand; RMSE reduced by 18% vs. naive baseline.
+- Created Tableau dashboards for sales leadership reporting.
+- Conducted ad-hoc statistical analysis to support marketing campaigns.
+
+EDUCATION
+Bachelor of Science in Statistics | University of Hawaii at Manoa | 2021
+Online: Deep Learning Specialization (Coursera / deeplearning.ai) | 2022
+Online: LLM Engineering (Udemy / Full Stack Deep Learning) | 2023
+
+SKILLS
+- Languages: Python, SQL
+- NLP/ML: HuggingFace Transformers, scikit-learn, PyTorch (intermediate), BERT, GPT-4 API, sentence-transformers
+- LLM Tooling: LangChain, LlamaIndex, OpenAI API, Chroma, Pinecone
+- Data: pandas, numpy, matplotlib, seaborn, SQL (PostgreSQL, MySQL), Tableau
+- MLOps: MLflow, Docker, AWS ECS (basic), Git
+- Cloud: AWS (S3, ECS, Lambda – basic)

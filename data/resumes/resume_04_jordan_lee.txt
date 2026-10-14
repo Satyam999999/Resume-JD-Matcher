@@ -1,0 +1,32 @@
+Jordan Lee
+jordan.lee@yahoo.com | (206) 774-3310 | github.com/jlee-dev
+Seattle, WA
+
+SUMMARY
+Backend Software Engineer with 4 years of experience building microservices and REST APIs. Strong Java and Python background. No specific machine learning experience but has worked alongside data teams on data pipelines.
+
+EXPERIENCE
+
+Software Engineer II | Amazon | Seattle, WA | Mar 2022 – Present
+- Built and maintained RESTful microservices using Java Spring Boot for internal logistics platform.
+- Wrote SQL queries against Amazon Redshift for reporting dashboards.
+- Participated in code reviews and maintained CI/CD pipelines using Jenkins.
+- Worked alongside a data science team, helping with data extraction requests using SQL.
+
+Junior Software Engineer | Accenture | Seattle, WA | Jun 2020 – Feb 2022
+- Developed backend features in Python (Flask) for a B2B SaaS platform.
+- Wrote unit tests using pytest; managed deployments using Docker.
+- Basic exposure to pandas for data manipulation in internal scripts.
+
+EDUCATION
+Bachelor of Science in Computer Science | University of Washington | 2020
+
+SKILLS
+- Languages: Java, Python, SQL
+- Frameworks: Spring Boot, Flask
+- Tools: Git, Jenkins, Docker
+- Databases: MySQL, PostgreSQL, Redshift (SQL only)
+- Cloud: AWS (basic EC2, S3)
+
+CERTIFICATIONS
+- AWS Certified Developer – Associate (2023)

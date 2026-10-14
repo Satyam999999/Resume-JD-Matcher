@@ -1,0 +1,46 @@
+Anjali Desai
+anjali.desai.nlp@gmail.com | +1 (647) 321-8892 | github.com/anjalidesai-nlp
+Toronto, Ontario, Canada
+
+SUMMARY
+NLP Researcher and Engineer with 4 years of experience building and deploying production NLP systems. Deep expertise in transformer models, LLM fine-tuning, and semantic search systems. Published researcher with 3 papers at top NLP venues. Passionate about making language AI systems more efficient, fair, and useful.
+
+EXPERIENCE
+
+NLP / AI Engineer | Unbounce (AI Team) | Vancouver, BC (Remote) | May 2023 – Present
+- Designed and deployed a document understanding pipeline using fine-tuned LLaMA-2 (LoRA) for extracting structured data from marketing assets; reduced manual annotation time by 70%.
+- Built a retrieval-augmented generation (RAG) system using Chroma and HuggingFace Transformers for internal knowledge base Q&A; improved answer accuracy from 52% to 84%.
+- Implemented semantic similarity search using sentence-transformers (all-MiniLM-L6-v2, E5-large) and Pinecone vector database; served 5K+ queries/day with <100ms latency.
+- Fine-tuned BERT and RoBERTa models for intent classification and named entity recognition on customer-generated text; F1 score of 0.91.
+- Managed ML experiment tracking with MLflow and Weights & Biases; authored internal documentation for LLM fine-tuning workflows.
+
+NLP Research Engineer | Element AI (now ServiceNow) | Montreal, QC | Aug 2021 – Apr 2023
+- Led development of a multilingual text classification system using mBERT and XLM-R; deployed across 12 languages with uniform F1 >0.88.
+- Built training data pipelines using Python and Apache Spark for 10GB+ text corpora; pipeline consumed by 4 model training workflows.
+- Implemented question answering and summarization modules using T5 and GPT-3 API; used in a production document assistant product.
+- Developed model evaluation framework and automated benchmarking on GLUE, SQuAD, and domain-specific datasets.
+- Collaborated on RLHF data collection and labeling infrastructure for preference-based model alignment.
+
+Machine Learning Engineer (Intern) | Borealis AI (RBC) | Toronto, ON | Sep 2020 – Jul 2021
+- Built time-series anomaly detection models using LSTMs and statistical methods in PyTorch.
+- Developed data preprocessing pipelines using pandas, numpy, and SQL for financial NLP tasks.
+
+EDUCATION
+Master of Science in Computer Science (NLP Specialization) | University of Toronto | 2021
+- Thesis: "Cross-lingual Transfer for Low-resource Entity Recognition"
+Bachelor of Engineering in Computer Engineering | University of Waterloo | 2019
+
+PUBLICATIONS
+- "Efficient Fine-tuning of LLMs with LoRA for Domain Adaptation" — EMNLP 2023
+- "Cross-lingual NER with Adversarial Training" — ACL 2022
+- "Data Augmentation for Low-resource NLP" — NAACL 2022
+
+SKILLS
+- Languages: Python, SQL, Bash
+- NLP/ML: HuggingFace Transformers, PyTorch, scikit-learn, spaCy, NLTK, sentence-transformers
+- LLMs: LLaMA, Mistral, GPT-4, BERT, RoBERTa, T5 (fine-tuning, LoRA, PEFT, instruction tuning, RLHF)
+- Vector DBs: Pinecone, Chroma, Weaviate, FAISS
+- MLOps: MLflow, Weights & Biases, Docker, Kubernetes
+- Data: Apache Spark, Airflow, pandas, numpy, SQL
+- Cloud: AWS (SageMaker, S3), GCP
+- LLM Tooling: LangChain, LlamaIndex, HuggingFace Inference API

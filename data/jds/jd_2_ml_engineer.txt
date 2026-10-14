@@ -1,0 +1,44 @@
+Job Title: Machine Learning Engineer
+Company: Airbnb
+Location: Remote (USA)
+Department: AI Platform
+
+About the Role:
+Airbnb's AI Platform team is looking for an experienced Machine Learning Engineer to design, build, and deploy large-scale ML systems that power personalization, search ranking, pricing, and trust & safety across our platform. You will work closely with research scientists to productionize models and build the infrastructure needed to support rapid ML experimentation.
+
+Responsibilities:
+- Design, develop, and maintain scalable machine learning pipelines for training, evaluation, and serving models.
+- Collaborate with applied researchers to implement and deploy production ML models with low latency and high throughput.
+- Build feature engineering pipelines using Spark, Flink, or similar distributed data frameworks.
+- Implement MLOps practices: model monitoring, data drift detection, automated retraining, A/B testing infrastructure.
+- Develop internal ML tooling, abstractions, and libraries to increase team productivity.
+- Ensure model reliability, fairness, and robustness in production systems.
+- Write high quality, well-tested, production-grade Python and Scala code.
+
+Required Qualifications:
+- Bachelor's or Master's degree in Computer Science, Machine Learning, Software Engineering, or equivalent.
+- 4+ years of software engineering experience with at least 2 years focused on ML systems.
+- Strong programming skills in Python; familiarity with Scala or Java is a plus.
+- Experience with deep learning frameworks: PyTorch or TensorFlow.
+- Proficiency in building and managing data pipelines with Apache Spark or Apache Flink.
+- Experience deploying ML models to production using REST APIs or gRPC services.
+- Solid understanding of distributed systems, microservices, and containerization (Docker, Kubernetes).
+- Familiarity with MLOps tools: MLflow, Kubeflow, SageMaker, or similar.
+- Strong knowledge of SQL and experience with cloud data warehouses (Redshift, BigQuery, Snowflake).
+
+Preferred Qualifications:
+- Experience with recommendation systems or search ranking.
+- Familiarity with feature stores (Feast, Tecton).
+- Knowledge of model compression, quantization, and efficient inference.
+- Experience with LLMs and transformer architectures (fine-tuning, RLHF, RAG pipelines).
+- Prior contributions to open-source ML projects.
+
+Technologies Stack:
+- Languages: Python, Scala, Java
+- ML: PyTorch, TensorFlow, scikit-learn, XGBoost
+- Data: Apache Spark, Flink, Kafka, Airflow, DBT
+- Cloud: AWS (SageMaker, S3, EC2), GCP
+- MLOps: MLflow, Kubeflow, Argo Workflows
+- Serving: Triton Inference Server, FastAPI, gRPC
+- Infrastructure: Docker, Kubernetes, Terraform
+- Databases: Redshift, BigQuery, DynamoDB, Redis

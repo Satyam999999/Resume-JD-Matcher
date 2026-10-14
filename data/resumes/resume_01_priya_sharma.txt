@@ -1,0 +1,43 @@
+Priya Sharma
+priya.sharma@gmail.com | +1 (415) 882-9034 | linkedin.com/in/priyasharma | github.com/priyasharma
+San Francisco, CA
+
+SUMMARY
+Data Scientist with 5 years of experience at the intersection of statistics and product analytics. Specialized in A/B experimentation, causal inference, and ML modeling. Proven track record of driving product decisions at scale using rigorous quantitative methods. Passionate about turning ambiguous business questions into clear data-driven strategies.
+
+EXPERIENCE
+
+Senior Data Scientist | Lyft | San Francisco, CA | Aug 2022 – Present
+- Led end-to-end A/B testing program for driver incentives; designed experiments with >95% power, resulting in a 12% improvement in driver activation rate.
+- Built causal inference models using difference-in-differences and propensity score matching to evaluate policy changes where randomized experiments were infeasible.
+- Developed a rider churn prediction model using XGBoost achieving 0.87 AUC; model used to trigger targeted re-engagement campaigns saving $2.4M annually.
+- Automated weekly KPI dashboards using Python + SQL connected to Redshift; reduced analyst reporting time by 60%.
+- Collaborated with product managers and engineers to define success metrics and design data instrumentation for 3 major feature launches.
+- Mentored 2 junior data scientists on statistical methods, experiment design, and Python best practices.
+
+Data Scientist | Twilio | San Francisco, CA | Jun 2020 – Jul 2022
+- Built a customer segmentation model using k-means and hierarchical clustering on 2M+ customer records; insights used to personalize email campaigns (15% lift in CTR).
+- Developed and maintained SQL-based data models in DBT for business-critical reporting; partnered with data engineers using Airflow for pipeline orchestration.
+- Designed and analyzed 20+ product experiments per quarter; identified two experiments that led to a 7% conversion rate improvement.
+- Created interactive Tableau dashboards for executive reporting on revenue retention and expansion metrics.
+
+Data Analyst | Salesforce | San Francisco, CA | Jan 2019 – May 2020
+- Supported sales operations analytics using SQL and Python (pandas, numpy, matplotlib).
+- Built revenue forecasting models using time-series analysis (ARIMA, Prophet).
+- Documented data definitions and built a central metric catalog used across 4 teams.
+
+EDUCATION
+Master of Science in Statistics | Stanford University | 2018
+Bachelor of Technology in Computer Science | IIT Delhi | 2016
+
+SKILLS
+- Languages: Python, SQL, R
+- ML/Statistics: scikit-learn, XGBoost, statsmodels, A/B testing, causal inference, regression modeling, Bayesian statistics
+- Data Engineering: pandas, numpy, Apache Spark, BigQuery, Redshift, DBT, Airflow
+- Visualization: Tableau, Looker, Matplotlib, Seaborn
+- Cloud: AWS (S3, Athena, Redshift), Google Cloud (BigQuery)
+- Tools: Git, Jupyter, Docker (basic), JIRA
+
+PUBLICATIONS & TALKS
+- Talk: "Causal Inference at Scale: Lessons from Ride-sharing" — PyData SF 2023
+- Blog post on Lyft Engineering Blog: "Designing Multi-Armed Bandits for Driver Promotions"

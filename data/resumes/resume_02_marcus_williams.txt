@@ -1,0 +1,46 @@
+Marcus Williams
+m.williams@outlook.com | (929) 441-7823 | github.com/mwilliams-ml | linkedin.com/in/marcuswilliamsml
+New York, NY
+
+SUMMARY
+Machine Learning Engineer with 6 years of experience building and deploying production ML systems at scale. Deep expertise in MLOps, distributed training, and model serving infrastructure. Experienced with both classical ML and modern deep learning stacks. Passionate about building reliable, high-throughput ML systems that serve millions of users.
+
+EXPERIENCE
+
+Staff Machine Learning Engineer | DoorDash | New York, NY | Mar 2023 – Present
+- Led the design and deployment of DoorDash's real-time order batching recommendation system using PyTorch; reduced average delivery time by 8% across 10M+ daily orders.
+- Built and maintained ML feature pipelines using Apache Spark and Kafka, processing 500GB of event data daily.
+- Established MLflow-based experiment tracking and model registry; standardized model lifecycle across 15 ML projects.
+- Deployed models to production using FastAPI and gRPC, serving 80K requests/second with p99 latency <20ms.
+- Containerized model training and serving using Docker and Kubernetes; migrated 8 ML services to cloud-native infrastructure on AWS (EKS, SageMaker).
+- Implemented automated model monitoring and data drift detection using Evidently AI, reducing incident response time by 50%.
+
+Machine Learning Engineer | Spotify | Stockholm, Sweden | Jan 2021 – Feb 2023
+- Built Spotify's podcast recommendation model using collaborative filtering and two-tower neural network architecture in PyTorch + TensorFlow.
+- Designed a distributed feature store using Redis and DynamoDB for low-latency feature serving (<5ms p50).
+- Wrote Scala data transformation jobs on Apache Spark for training data generation.
+- Managed end-to-end model pipeline (training → evaluation → A/B testing → deployment) using Kubeflow.
+- Implemented Triton Inference Server for GPU-optimized serving of transformer-based models.
+
+Data Engineer / ML Engineer | IBM Watson | Austin, TX | Jul 2019 – Dec 2020
+- Built NLP text classification pipelines using scikit-learn and spaCy for document routing system; 93% accuracy.
+- Developed ETL pipelines using Python, SQL, and Apache Airflow for a healthcare analytics platform.
+- Contributed to internal ML platform tooling using Python and Java.
+
+EDUCATION
+Master of Science in Computer Science (Machine Learning Track) | Carnegie Mellon University | 2019
+Bachelor of Science in Electrical Engineering | Howard University | 2017
+
+SKILLS
+- Languages: Python, Scala, Java, SQL, Bash
+- ML/DL: PyTorch, TensorFlow, scikit-learn, XGBoost, LightGBM, HuggingFace Transformers
+- MLOps: MLflow, Kubeflow, Argo Workflows, Evidently AI, Weights & Biases
+- Data: Apache Spark, Kafka, Flink, Airflow, DBT, pandas, numpy
+- Serving: FastAPI, gRPC, Triton Inference Server, Ray Serve
+- Cloud: AWS (SageMaker, EKS, S3, Lambda), GCP (Vertex AI, BigQuery)
+- Infrastructure: Docker, Kubernetes, Terraform, Helm
+- Databases: PostgreSQL, Redis, DynamoDB, Redshift, Snowflake
+
+OPEN SOURCE
+- Contributor to Apache Airflow (provider plugins)
+- GitHub: 800+ stars on ml-serving-templates repository

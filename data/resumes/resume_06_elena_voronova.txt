@@ -1,0 +1,37 @@
+Elena Voronova
+elena.voronova@gmail.com | +1 (312) 557-4482 | linkedin.com/in/elenavoronova
+Chicago, IL
+
+SUMMARY
+Quantitative Analyst and Data Scientist with 7 years of experience in financial modeling, statistical analysis, and Python-based analytics. Strong background in Bayesian methods, regression modeling, and time-series forecasting. Recently transitioning more toward product analytics and ML engineering.
+
+EXPERIENCE
+
+Senior Quantitative Analyst | JPMorgan Chase | Chicago, IL | Sep 2020 – Present
+- Developed credit risk models using logistic regression, gradient boosting (XGBoost), and survival analysis in Python.
+- Performed extensive A/B testing on credit policy changes; designed experiments using power analysis and statistical significance testing.
+- Automated risk reporting pipelines using Python (pandas, numpy) and SQL connected to Oracle and Redshift.
+- Built Bayesian hierarchical models using PyMC3 for regional risk segmentation.
+- Created executive dashboards using Tableau and PowerBI.
+
+Data Scientist | Avant (Fintech) | Chicago, IL | Jul 2017 – Aug 2020
+- Built machine learning models (Random Forest, XGBoost, Neural Networks with scikit-learn / Keras) for loan default prediction; reduced false positive rate by 14%.
+- Designed and analyzed A/B tests for underwriting policy experiments.
+- Partnered with data engineering to build Airflow pipelines consuming data from Redshift and S3.
+- Led a small team of 2 analysts; mentored junior staff on Python and statistical methods.
+
+EDUCATION
+Master of Science in Statistics | University of Chicago | 2017
+Bachelor of Science in Mathematics | Moscow State University | 2015
+
+SKILLS
+- Languages: Python, SQL, R
+- Statistics/ML: scikit-learn, XGBoost, LightGBM, Keras, statsmodels, PyMC3 (Bayesian), A/B testing, regression, causal inference
+- Data: pandas, numpy, Redshift, BigQuery (some experience), Airflow, DBT (basic)
+- Visualization: Tableau, PowerBI, Matplotlib, Seaborn
+- Cloud: AWS (S3, Redshift, Athena)
+- Tools: Git, Jupyter
+
+CERTIFICATIONS
+- CFA Level II Candidate
+- Google Cloud Professional Data Engineer (in progress)

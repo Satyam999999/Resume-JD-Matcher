@@ -1,0 +1,42 @@
+Job Title: NLP / AI Engineer
+Company: Cohere
+Location: Toronto, Canada (Remote-friendly)
+Department: Research & Engineering
+
+About the Role:
+Cohere is building world-class large language models and we are looking for a talented NLP / AI Engineer who is passionate about language AI. You will work at the intersection of research and engineering to build, fine-tune, and deploy NLP models that power our core products — including text generation, classification, embeddings, and semantic search.
+
+Responsibilities:
+- Research, implement, and optimize NLP models including transformers, fine-tuning LLMs (GPT, BERT, T5, LLaMA), and retrieval-augmented generation (RAG) systems.
+- Design and build embeddings and semantic search pipelines using vector databases (Pinecone, Chroma, Weaviate).
+- Develop data preprocessing, annotation pipelines, and datasets for supervised and self-supervised training.
+- Evaluate model quality using standard NLP benchmarks (GLUE, SuperGLUE, MMLU) and custom evaluations.
+- Work with the infrastructure team to optimize model inference (quantization, ONNX, TensorRT).
+- Stay current with state-of-the-art NLP research and implement key papers into production systems.
+- Write clean, efficient code and contribute to internal libraries and tooling.
+
+Required Qualifications:
+- Bachelor's or Master's/PhD in Computer Science, NLP, Computational Linguistics, or related field.
+- 3+ years of experience in NLP or machine learning engineering.
+- Deep understanding of transformer architectures (BERT, GPT, T5, LLaMA, Mistral).
+- Proficiency in Python with hands-on experience using HuggingFace Transformers, PyTorch.
+- Practical experience fine-tuning pre-trained language models (LoRA, PEFT, instruction tuning).
+- Strong knowledge of NLP tasks: text classification, named entity recognition, question answering, summarization.
+- Experience building and querying vector databases for semantic search.
+- Familiarity with MLflow or similar experiment tracking tools.
+- Solid SQL skills and experience with data processing at scale.
+
+Preferred Qualifications:
+- Experience with RLHF (Reinforcement Learning from Human Feedback) or DPO alignment techniques.
+- Contributions to NLP open-source projects or published research papers.
+- Experience with multilingual NLP and cross-lingual transfer.
+- Familiarity with LangChain or LlamaIndex for building LLM-powered applications.
+- Knowledge of efficient inference techniques: quantization (GPTQ, AWQ), speculative decoding.
+
+Technologies Stack:
+- Languages: Python (primary), C++ (optional)
+- NLP/ML: HuggingFace Transformers, PyTorch, scikit-learn, spaCy
+- Vector DBs: Pinecone, Chroma, Weaviate
+- Experiment Tracking: MLflow, Weights & Biases
+- Infrastructure: Docker, Kubernetes, AWS/GCP
+- Data: Apache Spark, Airflow, SQL, pandas, numpy

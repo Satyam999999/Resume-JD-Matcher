@@ -1,0 +1,42 @@
+Job Title: Data Scientist, Product Analytics
+Company: Stripe
+Location: San Francisco, CA (Hybrid)
+Department: Data Science & Analytics
+
+About the Role:
+Stripe is looking for a Data Scientist to join our Product Analytics team. You will partner closely with Product, Engineering, and Business teams to use data to drive product decisions and improve user experience. You will own analytical workstreams end-to-end, from problem definition to actionable recommendations.
+
+Responsibilities:
+- Design, analyze, and interpret results of experiments (A/B tests) to support product decisions.
+- Build dashboards and monitoring systems to track key product and business metrics.
+- Identify growth opportunities by analyzing user funnels, retention, and engagement patterns.
+- Develop statistical models and machine learning models to solve complex business problems.
+- Partner with data engineering teams to define data requirements and improve data pipelines.
+- Communicate findings and recommendations clearly to both technical and non-technical stakeholders.
+- Mentor junior data scientists and contribute to best practices across the team.
+
+Required Qualifications:
+- Bachelor's or Master's degree in Statistics, Mathematics, Computer Science, Engineering, or related field.
+- 3+ years of industry experience in a data science or quantitative analytics role.
+- Proficiency in Python and SQL for data analysis and modeling.
+- Strong expertise in A/B testing methodologies, experimental design, and statistical inference.
+- Experience with machine learning frameworks: scikit-learn, XGBoost, or similar.
+- Experience with data visualization tools such as Tableau or Looker.
+- Solid understanding of causal inference and regression modeling.
+- Experience using big data tools like Spark or BigQuery.
+- Strong communication skills; ability to translate data findings into business narratives.
+
+Preferred Qualifications:
+- PhD in a quantitative field.
+- Experience with Bayesian methods and probabilistic modeling.
+- Familiarity with DBT, Airflow, or similar data pipeline tools.
+- Prior experience in fintech or payments domain.
+- Experience with Python libraries: pandas, numpy, matplotlib, seaborn, scikit-learn.
+
+Technologies We Use:
+- Languages: Python, SQL, R (optional)
+- Cloud: AWS (S3, Redshift, Athena), Google Cloud (BigQuery)
+- Orchestration: Airflow, DBT
+- Visualization: Looker, Tableau, Matplotlib
+- ML: scikit-learn, XGBoost, PyTorch (for research projects)
+- Version Control: Git
